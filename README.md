@@ -1,6 +1,7 @@
 # Mental Health Matchmaking Platform (API Service)
 
 Sponsored by Phare Counselling https://www.pharecounselling.com/
+
 Authors: Mark, Ray, Claire, Changbing, Lindsay, Heather, Lior, Sam, Valery, Jacob
 
 ## Building
@@ -18,6 +19,7 @@ Start the API service:
 ```
   uvicorn app:app --reload
 ```
+
 Open:
 ```
   http://127.0.0.1:8000/docs
