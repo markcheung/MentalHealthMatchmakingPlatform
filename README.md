@@ -1,6 +1,7 @@
 # Mental Health Matchmaking Platform (API Service)
 
-Sponsored by Phare, in Collaboration with Lindsay, Heather, Ray, Sam, Valery, Jacob
+Sponsored by Phare Counselling https://www.pharecounselling.com/
+Authors: Mark, Ray, Claire, Changbing, Lindsay, Heather, Lior, Sam, Valery, Jacob
 
 ## Building
 
